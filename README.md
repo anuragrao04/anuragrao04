@@ -14,7 +14,6 @@ I am a developer exploring my interests. I've worked with Python and Qt framewor
 ![](https://github-readme-stats.vercel.app/api?username=anuragrao04&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anuragrao04&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrao04&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github.com/anuragrao04/anuragrao04/blob/output/github-contribution-grid-snake.gif)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
