@@ -1,7 +1,7 @@
 # Hi there! I'm Anurag
 
 ## ⚡️ About Me:
-I am a developer exploring my interests. I've worked with Python and Qt framework and I am working on Svelte and Flutter. I am looking to learn Rust and other memory efficient fast languages
+I am a developer exploring my interests. I've worked with Python and the Qt framework. I am working on Svelte and Flutter. I am looking to learn Rust and other memory efficient fast languages
 
 
 ## 🌐 Socials:
@@ -25,4 +25,3 @@ I am a developer exploring my interests. I've worked with Python and Qt framewor
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anuragrao04) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
