@@ -1,7 +1,7 @@
 # Hi there! I'm Anurag
 
 ## ⚡️ About Me:
-I am a developer exploring my interests. I've worked with Python and the Qt framework. I am working on Golang, Svelte, Next.js and Flutter. I am looking to learn Rust and other memory safe fast languages
+I am a developer exploring my interests. I've worked with Python and the Qt framework. I work on C, Golang, Svelte, React/Next.js and Flutter. I am looking to learn Rust and other memory safe fast languages
 
 
 ## 🌐 Socials:
